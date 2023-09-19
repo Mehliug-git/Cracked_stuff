@@ -16,7 +16,7 @@ Premium Unlocked / No ads / Unlimited skip
 <br>
 Features :
 <br>
-Play in backgrounds / No ads / Unlimited skip / The ReVanced Patcher can also patch other app like TikTok & Other ...
+Play in backgrounds / No ads / The ReVanced Patcher can also patch other app like TikTok & Other ...
 
 Note : [Download Youtube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-19-35-release/youtube-18-19-35-android-apk-download/) for patch youtube with ReVanced 
 
