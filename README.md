@@ -13,7 +13,8 @@ Premium Unlocked / No ads / Unlimited skip
 ## Youtube
 
 <br>
-[Youtube ReVanced](https://github.com/ReVanced/revanced-documentation)
+[Youtube_ReVanced](https://github.com/ReVanced/revanced-documentation)
+
 Features :
 <br>
 Play in backgrounds / No ads / Unlimited skip 
