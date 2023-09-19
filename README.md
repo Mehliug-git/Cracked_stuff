@@ -1,13 +1,17 @@
 # Crack's Dealer
 <br>
+
 ## Spotify 
+
 [Sprotify.apk](https://spoti.plus/)
 <br>
 Features :
 <br>
 Premium Unlocked / No ads / Unlimited skip 
 <br></br><br></br>
+
 ## Youtube
+
 <br>
 [Youtube ReVanced](https://github.com/ReVanced/revanced-documentation)
 Features :
