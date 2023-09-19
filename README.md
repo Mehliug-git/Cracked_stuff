@@ -1,6 +1,5 @@
 # Crack's Dealer
 
-
 ## Spotify 
 
 [Sprotify.apk](https://spoti.plus/)
