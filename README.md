@@ -2,7 +2,8 @@
 
 ## Spotify 
 
-[Sprotify.apk](https://github.com/Team-xManager/xManager)
+([Spotify.apk](https://github.com/ReVanced/revanced-documentation))
+
 <br>
 Install the manager and the patch in the app.
 Features :
