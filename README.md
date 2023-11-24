@@ -2,8 +2,9 @@
 
 ## Spotify 
 
-[Sprotify.apk](https://spoti.plus/)
+[Sprotify.apk]([https://spoti.plus/](https://github.com/Team-xManager/xManager))
 <br>
+Install the manager and the patch in the app.
 Features :
 <br>
 Premium Unlocked / No ads / Unlimited skip 
