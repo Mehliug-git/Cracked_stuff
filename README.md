@@ -10,6 +10,17 @@ Features :
 Premium Unlocked / No ads / Unlimited skip 
 
 
+## Spotify-Lite FOR WEAR OS
+
+[Spotify.apk](https://github.com/Team-xManager/xManager)
+<br>
+Install the manager and the patch in the app.
+Features :
+<br>
+Premium Unlocked / No ads / Unlimited skip 
+
+
+
 ## Youtube
 
 
